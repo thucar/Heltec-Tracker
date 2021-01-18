@@ -3,7 +3,7 @@
 #include <GPS_Air530.h>
 #include <cubecell_SSD1306Wire.h>
 #include <OneButton.h>
-#include "settings.h"
+#include "auth.h"
 
 extern SSD1306Wire  display; 
 
